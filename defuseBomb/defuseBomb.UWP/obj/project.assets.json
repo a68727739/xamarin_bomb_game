@@ -6660,11 +6660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\xamarin\\defuseBomb\\defuseBomb\\defuseBomb.UWP\\defuseBomb.UWP.csproj",
+      "projectUniqueName": "D:\\project\\xamarin\\xamarin_bomb_game\\defuseBomb\\defuseBomb.UWP\\defuseBomb.UWP.csproj",
       "projectName": "defuseBomb.UWP",
-      "projectPath": "D:\\project\\xamarin\\defuseBomb\\defuseBomb\\defuseBomb.UWP\\defuseBomb.UWP.csproj",
+      "projectPath": "D:\\project\\xamarin\\xamarin_bomb_game\\defuseBomb\\defuseBomb.UWP\\defuseBomb.UWP.csproj",
       "packagesPath": "C:\\Users\\hchan\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\xamarin\\defuseBomb\\defuseBomb\\defuseBomb.UWP\\obj\\",
+      "outputPath": "D:\\project\\xamarin\\xamarin_bomb_game\\defuseBomb\\defuseBomb.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

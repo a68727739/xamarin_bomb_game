@@ -698,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\xamarin\\defuseBomb\\defuseBomb\\defuseBomb.iOS\\defuseBomb.iOS.csproj",
+      "projectUniqueName": "D:\\project\\xamarin\\xamarin_bomb_game\\defuseBomb\\defuseBomb.iOS\\defuseBomb.iOS.csproj",
       "projectName": "defuseBomb.iOS",
-      "projectPath": "D:\\project\\xamarin\\defuseBomb\\defuseBomb\\defuseBomb.iOS\\defuseBomb.iOS.csproj",
+      "projectPath": "D:\\project\\xamarin\\xamarin_bomb_game\\defuseBomb\\defuseBomb.iOS\\defuseBomb.iOS.csproj",
       "packagesPath": "C:\\Users\\hchan\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\xamarin\\defuseBomb\\defuseBomb\\defuseBomb.iOS\\obj\\",
+      "outputPath": "D:\\project\\xamarin\\xamarin_bomb_game\\defuseBomb\\defuseBomb.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
