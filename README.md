@@ -6,3 +6,4 @@ step02 rebuild
 step03 deploy
 step04 run app on android emulator
 ```
+![image](https://github.com/a68727739/xamarin_bomb_game/blob/master/demo01.gif)
